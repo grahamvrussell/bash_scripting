@@ -1,0 +1,1 @@
+1) Debug a bash script by running `./script_name.sh -x`
