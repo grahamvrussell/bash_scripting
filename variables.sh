@@ -29,3 +29,7 @@ function hello {
 echo $HELLO
 hello
 echo $HELLO
+
+#Unset a Variable
+unset VAR1
+echo $VAR1
