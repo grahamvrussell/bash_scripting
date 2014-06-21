@@ -1,1 +1,2 @@
-1) Debug a bash script by running `./script_name.sh -x`
+1) Debug a bash script by running `./script_name.sh -x
+2) The name shabang: More commonly seen in the literature as she-bang or sh-bang. This derives from the concatenation of the tokens sharp (#) and bang (!).
