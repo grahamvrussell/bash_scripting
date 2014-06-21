@@ -1,3 +1,5 @@
 1) Debug a bash script by running `./script_name.sh -x
 2) The name shabang: More commonly seen in the literature as she-bang or sh-bang. This derives from the concatenation of the tokens sharp (#) and bang (!).
 3) Read more about magic numbers. They're interesting. Also look at the 'file' command to determine the type of file.
+4) Semicolons allow more than one command on a line. (Example: if [ $1 = $2 ]; then). Pay special attention to the space after the semicolon.
+5) Double Semi-colons terminate a case statement.
