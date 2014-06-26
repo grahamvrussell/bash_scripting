@@ -3,3 +3,4 @@
 3) Read more about magic numbers. They're interesting. Also look at the 'file' command to determine the type of file.
 4) Semicolons allow more than one command on a line. (Example: if [ $1 = $2 ]; then). Pay special attention to the space after the semicolon.
 5) Double Semi-colons terminate a case statement.
+6) Only Bash 4+ supports associative arrays
